@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "Web Ui/build",
+    "public": "Web Ui/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
